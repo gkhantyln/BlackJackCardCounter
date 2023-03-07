@@ -3,6 +3,20 @@
 ![alt text](/image/BlackJack_Card_Counter.png "BlackJack Card Counter")
 
 
+**Blackjack card counting** is a strategy used in the game of blackjack that allows players to calculate which cards are left in the deck and which cards remain. Card counting can give players an advantage because they can predict what they can expect from the remaining cards.
+
+Card counting can be performed by many different systems, including popular systems such as **Hi-Lo**, **Hi-Opt 2**, **Uston APC**, and **Omega 2**. Each uses a different method of calculation and provides players with different advantages.
+
+**Hi-Lo** is the most commonly used and simplest card counting system. In this system, cards are evaluated with point values of 1, 0, or -1. Low cards (2-6) are worth 1 point, high cards (10-A) are worth -1 point, and middle cards (7-9) are worth 0 points.
+
+**Hi-Opt 2** is a more complex system that assigns a point value of +1 to 2, 3, 4, 5, and 6 cards, -2 to 10, J, Q, K, and A cards, and 0 points to 7, 8, and 9 cards.
+
+**Uston APC** is a more complex system than other card counting systems. This system assigns a point value of +1 to 2, 3, 5, 6, and 7 cards, -1 to 9 cards, -2 to 10, J, Q, K, and A cards, and 0 points to 4 and 8 cards.
+
+**Omega 2** is a complex system that assigns a point value of +1 to 2, 3, and 7 cards, +2 to 4, 5, and 6 cards, -2 to 10, J, Q, K, and A cards, and 0 points to 8 and 9 cards.
+
+----------------------------
+
 
 **Blackjack kart sayımı, blackjack oyununda kullanılan bir stratejidir**. Bu strateji, oyuncuların oyun sırasında hangi kartların kaldığını ve kalan kartların hangi kartlar olduğunu hesaplamalarına olanak tanır. Kart sayımı, oyunculara avantaj sağlayabilir, çünkü kalan kartlardan ne bekleyebileceklerini tahmin edebilirler.
 
