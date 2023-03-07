@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>image/basic_strategy.jpg</file>
+    <file>image/icon.png</file>
+  </qresource>
+</RCC>

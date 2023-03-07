@@ -1,0 +1,10 @@
+For CMD or PowerShell :
+
+Code:
+----
+python -m PyQt5.uic.pyuic -x QtCounterTheme.ui -o bjc_Theme.py
+----
+
+Consolse:
+
+pyinstaller main.py --onefile --icon=iconn.ico --noconsole
